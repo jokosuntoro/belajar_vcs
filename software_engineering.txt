@@ -1,0 +1,5 @@
+Software Dev. Life Cycle:
+1. Planning
+2. Analysis
+3. Design
+4. Implementation
